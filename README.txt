@@ -1,3 +1,8 @@
+Disclaimer :
+	The following steps needs to be done only if the Android application demo between 2 devices - fails.
+	I will try to host this server at my place. However, if it fails at my place due to some reason you can run the server on your laptop to see the demo.
+
+
 **Pre-requisite:**
 	Laptop with Java installed.(Preferably Windows - which was the developer test environment)
 
@@ -12,7 +17,5 @@
 
 Now the Server will start running and open the UI console.
 
-Disclaimer :
-	Even if this step fails, you can try to continue with app demo because I will try to host the server at my place.
 
 
